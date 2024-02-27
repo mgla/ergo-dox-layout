@@ -7,5 +7,6 @@
 * https://configure.ergodox-ez.com/ergodox-ez/layouts/XYGRW/latest/0
 * https://configure.ergodox-ez.com/ergodox-ez/layouts/AnjV0/latest/0
 * https://configure.ergodox-ez.com/ergodox-ez/layouts/YVvZZ/latest/0
+* https://configure.ergodox-ez.com/ergodox-ez/layouts/rzQgj/latest/0
 
 Latest at the bottom
