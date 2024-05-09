@@ -10,5 +10,6 @@
 * https://configure.ergodox-ez.com/ergodox-ez/layouts/rzQgj/latest/0
 * https://configure.zsa.io/ergodox-ez/layouts/xmxLY/latest/0
 * https://configure.zsa.io/ergodox-ez/layouts/gdrdX/latest/0
+* https://configure.zsa.io/ergodox-ez/layouts/qZebA/latest/0
 
 Latest at the bottom
